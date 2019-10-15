@@ -30,7 +30,7 @@ https://api.a.top
 
 API 访问密钥（accesskey）：您申请的 API Key 中的 Access Key。
 
-时间戳（nonce）：您应用程序发出请求的时间戳，13位毫秒数，Bision将根据这个时间戳检验您API请求的有效性。
+时间戳（nonce）：您应用程序发出请求的时间戳，13位毫秒数，Atop将根据这个时间戳检验您API请求的有效性。
 
 签名(signature)：签名计算得出的值，用于确保签名有效和未被篡改，Atop使用 `HmacSHA256`。
 
