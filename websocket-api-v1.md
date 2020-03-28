@@ -3,7 +3,7 @@
 ### WEBSOCKET API
 
 ``
-wss://ws.a.top/websocket
+wss://socket.a.top/websocket
 ``
 
 
